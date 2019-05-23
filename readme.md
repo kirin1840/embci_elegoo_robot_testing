@@ -1,3 +1,3 @@
 # Overview
-This project is elegoo robot smart robot test projct.
+This project is elegoo smart robot test projct.
 
